@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "531108171169",
+    "firebase_url": "https://customapp-eddee-default-rtdb.firebaseio.com",
+    "project_id": "customapp-eddee",
+    "storage_bucket": "customapp-eddee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531108171169:android:7671edbba8796ba9434fe0",
+        "android_client_info": {
+          "package_name": "com.example.appcustom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531108171169-n6ok9m7rivq9bfbdc09u14dlo739hko4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appcustom",
+            "certificate_hash": "f33afdebb6269b1aedac4e4b69bdc6df87684a81"
+          }
+        },
+        {
+          "client_id": "531108171169-d9ddodq3j8hcfu9m17bakn46go56rks2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDykoGsZ607o89gS16sJw8eg-vM7Sk99RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531108171169-d9ddodq3j8hcfu9m17bakn46go56rks2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
